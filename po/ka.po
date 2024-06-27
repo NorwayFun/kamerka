@@ -1,0 +1,293 @@
+# Georgian translation for kamerka.
+# Copyright (C) 2024, Kamerka authors
+# This file is distributed under the same license as the kamerka package.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kamerka\n"
+"Report-Msgid-Bugs-To: dos@dosowisko.net\n"
+"POT-Creation-Date: 2019-04-10 21:34+0200\n"
+"PO-Revision-Date: 2024-06-27 06:20+0200\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: src/kamerka.qml:248
+msgid "Take a photo"
+msgstr "სურათის გადაღება"
+
+#: src/kamerka.qml:263 src/settingsdialog.cpp:156
+msgid "Burst mode"
+msgstr "სერიული რეჟიმი"
+
+#: src/kamerka.qml:286 src/settingsdialog.cpp:144
+msgid "Self-timer"
+msgstr "წამმზომი"
+
+#: src/kamerka.qml:302
+msgid "Hide effects"
+msgstr "ეფექტების დამალვა"
+
+#: src/kamerka.qml:302
+msgid "Show effects"
+msgstr "ეფექტების ჩვენება"
+
+#: src/kamerka.qml:318
+msgid "Open directory"
+msgstr "საქაღალდის გახსნა"
+
+#: src/kamerka.qml:333
+msgid "Configure"
+msgstr "მორგება"
+
+#: src/kamerka.qml:537
+msgid "No Effect"
+msgstr "ეფექტების გარეშე"
+
+#: src/kamerka.qml:553
+msgid "Grey"
+msgstr "ნაცრისფერი"
+
+#: src/kamerka.qml:569
+msgid "Invert"
+msgstr "ინვერსია"
+
+#: src/kamerka.qml:585
+msgid "Equalize"
+msgstr "გათანაბრება"
+
+#: src/kamerka.qml:601
+msgid "Smurf"
+msgstr "სმურფი"
+
+#: src/kamerka.qml:616
+msgid "Implode"
+msgstr "შიგნითკენ აფეთქება"
+
+#: src/kamerka.qml:631
+msgid "Explode"
+msgstr "აფეთქება"
+
+#: src/kamerka.qml:646
+msgid "Charcoal"
+msgstr "ნახშირი"
+
+#: src/kamerka.qml:661
+msgid "Edge"
+msgstr "წიბო"
+
+#: src/kamerka.qml:676
+msgid "Emboss"
+msgstr "ამოტვიფრვა"
+
+#: src/kamerka.qml:691
+msgid "Swirl"
+msgstr "გრიგალი"
+
+#: src/kamerka.qml:706
+msgid "Oil Paint"
+msgstr "ზეთის საღებავი"
+
+#: src/kamerka.qml:721
+msgid "Wave"
+msgstr "ტალღა"
+
+#: src/main.cpp:37
+msgid "Kamerka"
+msgstr "Kamerka"
+
+#: src/main.cpp:38
+msgid "Simple photo taking application with fancy animated interface"
+msgstr "მარტივი სურათების გადაღების აპლიკაცია მდიდრული ანიმირებული ინტერფეისით"
+
+#: src/main.cpp:39
+msgid "Copyright (C) 2011-2014 Sebastian Krzyszkowiak"
+msgstr "Copyright (C) 2011-2014 Sebastian Krzyszkowiak"
+
+#: src/mainwindow.cpp:46
+msgid "i18n() takes at least one argument"
+msgstr "i18n()-ს, სულ ცოტა, ერთი არგუმენტი სჭირდება"
+
+#: src/mainwindow.cpp:64
+msgid "Could not load QML interface!"
+msgstr "QML ინტერფეისი ვერ ჩავტვირთე!"
+
+#: src/mainwindow.cpp:64 src/mainwindow.cpp:115 src/mainwindow.cpp:138
+msgid "Error"
+msgstr "შეცდომა"
+
+#: src/mainwindow.cpp:111 src/mainwindow.cpp:115 src/mainwindow.cpp:138
+msgid "Could not connect to V4L device!"
+msgstr "V4L მოწყობილობასთან მიერთების შეცდომა!"
+
+#: src/mainwindow.cpp:157
+msgid ""
+"Requested resolution (%1x%2) was not available. Driver used %3x%4 instead.\n"
+"Please check your configuration."
+msgstr ""
+"მოთხოვნილი გაფართოება (%1x%2) ხელმისაწვდომი არ იყო. დრაივერმა %3x%4 გამოიყენა.\n"
+"გადაამოწმეთ თქვენი კონფიგურაცია."
+
+#: src/settingsdialog.cpp:43
+msgid "Selected path does not exists. Do you want to create it?"
+msgstr "არჩეული ბილიკი არ არსებობს. გნებავთ, შექმნათ ის?"
+
+#: src/settingsdialog.cpp:60
+msgid "Device node:"
+msgstr "მოწყობილობის კვანძი:"
+
+#: src/settingsdialog.cpp:67
+msgid "x"
+msgstr "x"
+
+#: src/settingsdialog.cpp:72
+msgid "px"
+msgstr "px"
+
+#: src/settingsdialog.cpp:73
+msgid "Resolution:"
+msgstr "გარჩევადობა:"
+
+#: src/settingsdialog.cpp:78
+msgid "Disabled"
+msgstr "გამოირთო"
+
+#: src/settingsdialog.cpp:79
+msgid " fps"
+msgstr " კადრი/წმ"
+
+#: src/settingsdialog.cpp:81
+msgid "Framerate limit:"
+msgstr "კადრების სიჩქარის ზღვარი:"
+
+#: src/settingsdialog.cpp:83
+msgid "Lock aspect ratio"
+msgstr "გადიდების კოეფიციენტის დაბლოკვა"
+
+#: src/settingsdialog.cpp:86
+msgid "Enhance contrast"
+msgstr "კონტრასტის გადიდება"
+
+#: src/settingsdialog.cpp:89
+msgid "Mirror output"
+msgstr "ანარეკლის გამოტანა"
+
+#: src/settingsdialog.cpp:92
+msgid "Flip output"
+msgstr "გამოტანის გადაბრუნება"
+
+#: src/settingsdialog.cpp:97
+msgid "Image Settings"
+msgstr "გამოსახულების პარამეტრები"
+
+#: src/settingsdialog.cpp:107
+msgid "Brightness:"
+msgstr "სიკაშკაშე:"
+
+#: src/settingsdialog.cpp:116
+msgid "Contrast:"
+msgstr "კონტრასტი:"
+
+#: src/settingsdialog.cpp:125
+msgid "Saturation:"
+msgstr "ჯერადობა:"
+
+#: src/settingsdialog.cpp:134
+msgid "Hue:"
+msgstr "ტონი:"
+
+#: src/settingsdialog.cpp:138
+msgid "Camera"
+msgstr "კამერა"
+
+#: src/settingsdialog.cpp:138
+msgid "Camera settings"
+msgstr "კამერის მორგება"
+
+#: src/settingsdialog.cpp:149 src/settingsdialog.cpp:167
+msgid " seconds"
+msgstr " წამი"
+
+#: src/settingsdialog.cpp:152
+msgid "Self-timer timeout:"
+msgstr "წამმზომის მოლოდინის ვადა:"
+
+#: src/settingsdialog.cpp:163
+msgid "Number of photos:"
+msgstr "სურათების რაოდენობა:"
+
+#: src/settingsdialog.cpp:170
+msgid "Delay between photos:"
+msgstr "დაყოვნება სურათებს შორის:"
+
+#: src/settingsdialog.cpp:174
+msgid "Capture"
+msgstr "ჩაჭერა"
+
+#: src/settingsdialog.cpp:182
+msgid "Use default pictures directory"
+msgstr "ნაგულისხმევი სურათების საქაღალდის გამოყენება"
+
+#: src/settingsdialog.cpp:189
+msgid "Use subdirectory:"
+msgstr "ქვესაქაღალდის გამოყენება:"
+
+#: src/settingsdialog.cpp:202
+msgid "Photo directory:"
+msgstr "სურათის საქაღალდე:"
+
+#: src/settingsdialog.cpp:204
+msgid "Storage"
+msgstr "საცავი"
+
+#: src/settingsdialog.cpp:204
+msgid "Photo storage"
+msgstr "გამოსახულებების საცავი"
+
+#: src/settingsdialog.cpp:210
+msgid "Play sound on taking photo"
+msgstr "ხმის დაკვრა სურათის გადაღებისას"
+
+#: src/settingsdialog.cpp:213
+msgid "Play timer sounds"
+msgstr "ტაიმერის ხმის დაკვრა"
+
+#: src/settingsdialog.cpp:216
+msgid "Show notification on taking photo"
+msgstr "გაფრთხილების ჩვენება სურათის გადაღებისას"
+
+#: src/settingsdialog.cpp:220
+msgid "Behaviour"
+msgstr "ქცევა"
+
+#: src/videowidget.cpp:100
+msgid "Starting up webcam..."
+msgstr "ვებკამერის გაშვება..."
+
+#: src/videowidget.cpp:170
+msgid "Photo has been stored in file %1"
+msgstr "სურათი შენახულია ფაილში %1"
+
+#: src/videowidget.cpp:175
+msgid "Open"
+msgstr "გახსნა"
+
+#: src/videowidget.cpp:175
+msgid "Show in directory"
+msgstr "საქაღალდეში ჩვენება"
+
+#: tools/rc.cpp:1 rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Temuri Doghonadze"
+
+#: tools/rc.cpp:2 rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Temuri.doghonadze@gmail.com"
